@@ -15,8 +15,8 @@ const Index = () => (
       backgroundImage={['none', 'url(/logos.png)']}
       position="relative"
       h={['100px', '300px', '500px']}
-      maxWidth="1620px"
-      mt={[0, '-50px']}
+      width="810px"
+      m="0 auto"
     >
       <Stack
         spacing={8}
